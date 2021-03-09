@@ -1,5 +1,3 @@
-# -*- coding: cp1252 -*-
-
 _author_='Lucas Silva Viana'
 ###Pyhon para alterar o ip e mascara em Linux
 
